@@ -1,5 +1,6 @@
 # React Redux Personal Portfolio w/ Comment Board
 
+- Run Commands
 ```bash
 npm install
 npm run build
