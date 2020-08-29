@@ -15,11 +15,11 @@ class Home extends Component {
   render() {
     return (
       <div className={homeContainer}>
-        <div className={aboutContainer}>
+        {/* <div className={aboutContainer}>
           <div className={aboutMe}>
             Junior Full-Stack Developer. <br/>Highly experienced working with React, Express, and NodeJS.<br/> Looking for the opportunity to learn and collaborate with a hardworking software team.
           </div>
-        </div>
+        </div> */}
         <div className={projectsContainer}>
           <ProjectCard
             linkPath="/ritmo"
